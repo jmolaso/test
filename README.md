@@ -1,1 +1,1 @@
-Text example.
+Some text example.
